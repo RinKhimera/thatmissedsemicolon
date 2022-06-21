@@ -7,7 +7,7 @@ I have been coding for past 1 year, and I started with C++, and I found my passi
 * 🖥️  See my portfolio at [My Portfolio](http://suryanshanand.com)
 * ✉️  You can contact me at [suryanshanand@icloud.com](mailto:suryanshanand@icloud.com)
 * 🚀  I'm currently working on [A full-stack social media app](http://share-unlimited.netlify.app)
-* 🧠  I'm learning I am currently learning JavaScript and Python
+* 🧠  I'm learning JavaScript and Python
 * 🤝  I'm open to collaborating on React, Firebase, Sanity and Node.js projects
 * ⚡  Love gaming, photography and sports!
 
